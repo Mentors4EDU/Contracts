@@ -1,2 +1,2 @@
 # Contracts
-Contracts for SafeHaven (platform, token, crowdsale)
+The Solidity Contracts for SHA Token and its platfrom (Once Deployed Live)
